@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xuxiaohe0308.
 - 🌱 I’m currently a postgraduate (BEng) in Beihang University, Beijing, P.R.China, now looking for jobs.
-- 👀 I’m interested in all the novel and interesting tehnologies and open-source repos.
+- 👀 I’m interested in all the novel and interesting tehnologies and open-source projects.
 
 
 <!---
